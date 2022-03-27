@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9bdd530-8a3e-680a-72ee-4587b2c8dde3
 resourcetype: Document
 title: 'Assignments: Second Memo Student Example, An Analysis of Public Trust in the
   Military in the Republic of China'

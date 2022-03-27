@@ -8,6 +8,7 @@ learning_resource_types:
 ocw_type: OCWFile
 parent_title: Assignments
 parent_type: CourseSection
+parent_uid: d9bdd530-8a3e-680a-72ee-4587b2c8dde3
 resourcetype: Document
 title: "Assignments: First Memo Student Example, The Likelihood of a Military Coup\
   \ in the People\u2019s Republic of China"
