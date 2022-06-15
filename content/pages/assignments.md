@@ -1,5 +1,6 @@
 ---
 content_type: page
+description: This section contains the course assignments.
 learning_resource_types:
 - Assignments
 ocw_type: CourseSection
@@ -27,7 +28,7 @@ This memo is due during session 4.
 
 _Second Memo_
 
-Pick a foreign country from the public opinion polls in the [Readings]({{< baseurl >}}/pages/readings) section (see session 6) and different from the last one you picked. What explains variation in public trust of the military in that country over time? 
+Pick a foreign country from the public opinion polls in the {{% resource_link 04f2820d-a589-7975-b509-cecac99f2a14 "Readings" %}} section (see session 6) and different from the last one you picked. What explains variation in public trust of the military in that country over time? 
 
 This memo is due during session 7.
 
@@ -35,8 +36,8 @@ This memo is due during session 7.
 
 _First Memo_
 
-[“The Likelihood of a Military Coup in the People’s Republic of China” (PDF)]({{< baseurl >}}/resources/mit17_s916iap20_example1) by Chad Qian.
+{{% resource_link 52d5b219-d2b3-1aeb-abee-1aa5ec4d504c "“The Likelihood of a Military Coup in the People’s Republic of China” (PDF)" %}} by Chad Qian.
 
 _Second Memo_
 
-[“An Analysis of Public Trust in the Military in the Republic of China” (PDF)]({{< baseurl >}}/resources/mit17_s916iap20_example2) by Chad Qian.
+{{% resource_link 10f950b4-e3ad-e910-794c-20b4661030da "“An Analysis of Public Trust in the Military in the Republic of China” (PDF)" %}} by Chad Qian.
