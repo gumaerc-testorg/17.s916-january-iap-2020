@@ -1,5 +1,9 @@
 ---
 content_type: page
+description: This section contains information on student learning outcomes for the
+  course, the course grading policy, and the course calendar.
+learning_resource_types: []
+ocw_type: CourseSection
 title: Syllabus and Calendar
 uid: e7b4ffce-84f9-e9d7-e492-0f4fb208f8c8
 ---
@@ -100,7 +104,7 @@ _All students are expected to read assigned readings closely and participate reg
 
 {{< tableclose >}}
 
-For detail on the memos and the oral presentation, see the [Assignments]({{< baseurl >}}/pages/assignments) section.
+For detail on the memos and the oral presentation, see the {{% resource_link d9bdd530-8a3e-680a-72ee-4587b2c8dde3 "Assignments" %}} section.
 
 Calendar
 --------
